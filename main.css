@@ -1,3 +1,35 @@
 body {
     background-color: lavender;
 }
+
+.row {
+    display: flex;
+    justify-content: space-around;
+}
+
+.card {
+    border: 1px solid lightblue;
+}
+
+header h2 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.prices {
+    font-weight: bold;
+}
+
+.specs {
+    font-weight: bold;
+}
+
+.availability {
+    background-color: gray;
+    color: yellow;
+}
