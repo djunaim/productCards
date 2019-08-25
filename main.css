@@ -1,5 +1,6 @@
 body {
     background-color: #00796B;
+    font-family: 'Slabo 27px', serif;
 }
 
 .row {
@@ -9,6 +10,8 @@ body {
 
 .card {
     border: 1px solid lightblue;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    margin: 10px 10px;
 }
 
 header h2 {
@@ -37,4 +40,8 @@ img {
 
 p {
     color: #B2DFDB;
+}
+
+h1 {
+    text-align: center;
 }
