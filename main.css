@@ -1,3 +1,54 @@
 body {
-    background-color: lavender;
+    background-color: #00796B;
+    font-family: 'Lexend Zetta', sans-serif;
+}
+
+.row {
+    display: flex;
+    justify-content: space-around;
+}
+
+.card {
+    border: 1px solid lightblue;
+    box-shadow: 10px 10px 5px #aaaaaa;
+    margin: 10px 10px;
+}
+
+header h2 {
+    text-align: center;
+    color: #FFFFFF;
+}
+
+img {
+    /* position: relative; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.prices {
+    font-weight: bold;
+}
+
+.specs {
+    font-weight: bold;
+}
+
+.availability {
+    background-color: gray;
+    color: yellow;
+}
+
+p {
+    color: #B2DFDB;
+}
+
+h1 {
+    text-align: center;
+}
+
+.logo {
+    position: absolute;
+    top: 60px;
+    bottom: 80px;
 }
