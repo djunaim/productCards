@@ -4,7 +4,7 @@
 Use application to see which drink options are available.
 
 ## Screenshots
-
+![product cards preview](https://raw.githubusercontent.com/djunaim/productCards/master/screenshots/image.PNG)
 
 ## How to run
 * Clone down this project
